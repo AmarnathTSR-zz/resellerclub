@@ -1,0 +1,32 @@
+{
+  "name": "resellerclub",
+  "version": "1.0.0",
+  "description": "NPM package for Resellerclub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmarnathTSR/resellerclub.git"
+  },
+  "keywords": [
+    "resellerclub",
+    "domain",
+    "reseller",
+    "search",
+    "domainregistration",
+    "transfer",
+    "registration"
+  ],
+  "author": "Amarnath TSR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmarnathTSR/resellerclub/issues"
+  },
+  "homepage": "https://github.com/AmarnathTSR/resellerclub#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "qs": "^6.6.0"
+  }
+}
